@@ -1,0 +1,44 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "menu_list": [
+            {
+                "name": "order_num",
+                "title": "订单数量",
+                "value": 0.70369
+            },
+            {
+                "name": "room_night_count",
+                "title": "间夜量",
+                "value": 0.12787321332132132131231
+            },
+            {
+                "name": "order_amount",
+                "title": "订单金额",
+                "value": 0.853332132321312
+            },
+            {
+                "name": "cancel_reason_num",
+                "title": "取消原因总量",
+                "value": 0.2138
+            },
+            {
+                "name": "cancel_order_list",
+                "title": "取消订单列表",
+                "value": 0.44922
+            },
+            {
+                "name": "sell_channel",
+                "title": "销售渠道",
+                "value": 0.9027
+            }
+        ],
+        "app_list": [
+            {
+                "name": "app_order",
+                "title": "订单"
+            }
+        ]
+    }
+}

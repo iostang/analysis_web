@@ -1,0 +1,42 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": [
+        {
+            "sell_channel": "电商",
+            "num": 131939
+        },
+        {
+            "sell_channel": "APP",
+            "num": 44486
+        },
+        {
+            "sell_channel": "去哪儿民宿宫格",
+            "num": 34981
+        },
+        {
+            "sell_channel": "小程序",
+            "num": 26661
+        },
+        {
+            "sell_channel": "蚂蚁宫格",
+            "num": 6777
+        },
+        {
+            "sell_channel": "H5",
+            "num": 2773
+        },
+        {
+            "sell_channel": "PC",
+            "num": 2448
+        },
+        {
+            "sell_channel": "支付宝小程序",
+            "num": 1250
+        },
+        {
+            "sell_channel": "携程宫格",
+            "num": 3
+        }
+    ]
+}
